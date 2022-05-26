@@ -13,7 +13,8 @@ const Base = () => {
         }}
       >
         <Link to="/leaflet-map">Leaflet Map</Link> |{" "}
-        <Link to="/editor">Editor</Link>
+        <Link to="/editor">Editor</Link>|{" "}
+        <Link to="/map-with-editor">Map - Editor</Link>
       </nav>
     </div>
   )
